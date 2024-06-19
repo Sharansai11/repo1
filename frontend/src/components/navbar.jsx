@@ -2,7 +2,11 @@ import React from 'react'
 
 function navbar() {
   return (
-    <div>navbgbghbtgar</div>
+      <div>new text 
+          f
+          gb ocde
+         code
+    </div>
   )
 }
 
