@@ -2,7 +2,7 @@ import React from 'react'
 
 function navbar() {
     return (
-        <div>new text
+        <div>new textdfv
             f
             gb ocde
             code
